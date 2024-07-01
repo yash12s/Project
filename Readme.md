@@ -23,7 +23,9 @@ Admin: Update User Data | Delete User
 Admin: List Review of Product | Delete Review
 Stock Management: Decrease stock of product when shipped
 
-To Run this application git clone git@github.com:elias-soykat/q-sneakers.git
+To Run this application
+
+git clone git@github.com:elias-soykat/q-sneakers.git
 
 cd Q-Sneakers
 
