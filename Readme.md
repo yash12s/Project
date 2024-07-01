@@ -1,4 +1,5 @@
 Q-Sneakers
+
 Q-Sneakers is a full-stack e-commerce application providing features for both users and admins to manage products, orders, and user accounts efficiently.
 
 Table of Contents
@@ -85,7 +86,7 @@ Start the frontend server:
 bash
 Copy code
 npm start
-Open your browser and navigate to http://localhost:3000.
+
 
 Technologies Used
 Backend: Node.js, Express, MongoDB, Mongoose
