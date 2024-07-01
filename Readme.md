@@ -13,7 +13,9 @@ Table of Contents
 Features
 
 User Features
+<br>
 >Login/Signup User Account
+</br>
 >Update Profile/Password User Account
 >Reset Password via Email using Nodemailer
 >Cart: Add/Remove Items, Update Quantities
