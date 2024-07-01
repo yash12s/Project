@@ -44,4 +44,13 @@ Full-Stack Ecommerce with Admin Dashboard
 
 </br>
 
+To Run this application
+git clone git@github.com:elias-soykat/q-sneakers.git
 
+cd Q-Sneakers
+
+npm i
+
+npm run build
+
+npm run dev
