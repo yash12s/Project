@@ -2,38 +2,31 @@ Q-Sneakers
 
 Q-Sneakers is a full-stack e-commerce application providing features for both users and admins to manage products, orders, and user accounts efficiently.
 
-Login/Signup User Account
-Update Profile/Password User Account
-Reset Password Mail using Nodemailer
-Cart Add/Remove Items | Update Quantities
-Save For Later Add/Remove Items
-Wishlist Add/Remove Items
-Products Pagination (Default 8 Products Per Page)
-Product Search
-Product Filters Based on Category/Ratings | Price Range
-Shipping Info in Session Storage
-My Orders (With All Filters)
-Order Details of All Ordered Item
-Users will receive mail when order placed with all details
-Review Products User Account
-Admin: Dashboard access to only admin roles
-Admin: Update Order Status | Delete Order
-Admin: Add/Update Products
-Admin: Update User Data | Delete User
-Admin: List Review of Product | Delete Review
-Stock Management: Decrease stock of product when shipped
+Table of Contents
 
-To Run this application
+1.Features
+2.Setup Instructions
+3.Running the Application
+4.Environment Variables
+5.Technologies Used
 
-git clone git@github.com:elias-soykat/q-sneakers.git
+Features
 
-cd Q-Sneakers
-
-npm i
-
-npm run build
-
-npm run dev
+User Features
+>Login/Signup User Account
+>Update Profile/Password User Account
+>Reset Password via Email using Nodemailer
+>Cart: Add/Remove Items, Update Quantities
+>Save For Later: Add/Remove Items
+>Wishlist: Add/Remove Items
+>Products Pagination (Default 8 Products Per Page)
+>Product Search
+>Product Filters Based on Category/Ratings, Price Range
+>Shipping Info in Session Storage
+>My Orders with Filters
+>Order Details of All Ordered Items
+>Order Confirmation Email with Details
+>Review Products
 </br>
 
 <table>
